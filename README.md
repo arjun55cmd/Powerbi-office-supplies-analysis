@@ -6,12 +6,13 @@ This project analyzes office supplies sales data using Power BI to uncover insig
 ---
 
 ## 🖼️ Dashboard Overview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](PowerBI_OfficeSupplies_Project/dashboard_overview.png)
 
 ---
 
 ## 📊 Key Metrics
-![Key Metrics](key_metrics.png)
+![Key Metrics](PowerBI_OfficeSupplies_Project/key_metrics.png)
+
 
 **Metrics Included:**
 - Total Orders
@@ -21,8 +22,7 @@ This project analyzes office supplies sales data using Power BI to uncover insig
 ---
 
 ## 💰 Revenue by Product
-![Revenue by Product](revenue_by_product.png)
-
+![Revenue by Product](PowerBI_OfficeSupplies_Project/revenue_by_product.png)
 **Insight:**
 - Binders generate the highest revenue.
 - Pen Sets and Pencils follow as mid-performing products.
@@ -30,8 +30,7 @@ This project analyzes office supplies sales data using Power BI to uncover insig
 ---
 
 ## 📈 Sales Trend Over Time
-![Sales Trend Over Time](sales_trend_over_time.png)
-
+![Sales Trend Over Time](PowerBI_OfficeSupplies_Project/sales_trend_over_time.png)
 **Insight:**
 - Sales show a steady upward trend from 2012 to 2014, indicating consistent business growth.
 
