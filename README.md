@@ -40,7 +40,6 @@ This project analyzes office supplies sales data using Power BI to uncover insig
 - Power BI Desktop
 - Power Query
 - DAX
-- GitHub
 
 ---
 
